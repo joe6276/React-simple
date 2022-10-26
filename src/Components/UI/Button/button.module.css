@@ -1,0 +1,15 @@
+.button {
+    border-style: none;
+    padding:10px 20px ;
+    border-radius: 5px;
+    background-color: green;
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.header {
+  background: #4f005f;
+  padding: 1rem;
+  color: white;
+}
